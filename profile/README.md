@@ -3,7 +3,7 @@
 
 ## Project Information
 
-With  **APPtake**  – Uptake of Innovative Application Cybersecurity Solutions  **we aim to build** **a portfolio of sustainable application cybersecurity solutions**  to foster the adoption of DevSecOps practices by the European SMEs,  **increasing their cybersecurity capabilities.  **
+With  **APPtake**  – Uptake of Innovative Application Cybersecurity Solutions  **we aim to build** **a portfolio of sustainable application cybersecurity solutions**  to foster the adoption of DevSecOps practices by the European SMEs,  **increasing their cybersecurity capabilities.**
   
 The project will make available a  **marketplace platform to support interaction between suppliers and adopters of cybersecurity solutions**  and where the solutions of the seven technology providers in the project will be made available.
 
