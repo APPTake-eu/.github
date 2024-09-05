@@ -1,5 +1,6 @@
 # APPTake Project
 
+![logo](../images/APPTake_logo.png)
 
 ## Project Information
 
