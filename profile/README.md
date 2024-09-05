@@ -24,3 +24,5 @@ The project will make available a  **marketplace platform to support interaction
 -   [APPTake Website](https://www.apptake.eu/)
 -   [LinkedIn](https://www.linkedin.com/company/apptake/)
 -   [GitHub](https://github.com/APPTake-eu)
+
+![footer](../images/APPTake_footer.jpg)
